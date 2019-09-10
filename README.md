@@ -1,1 +1,2 @@
 # Multizone-watering
+This circuit was developed for advanced multi zone watering system. It involved pre-setting the time for each particular time for a maximum time of 60 mins per zone with additional functionality like enabling, disabling any desired zones according to the needs.
